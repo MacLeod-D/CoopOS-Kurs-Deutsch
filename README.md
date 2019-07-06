@@ -2,7 +2,9 @@
 ***An english Version will be soon available.***  Eine englische Version ist in Vorbereitung.
 
 
-***Schnelles und mächtiges kooperatives Multitasking - Kurs auf Deutsch mit allen Source***
+***Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
+              Kurs auf Deutsch mit allen Source***   
+              
                       ***CoopOS***
                       
 Ein umfangreicher Kursus, der ganz simpel startet
