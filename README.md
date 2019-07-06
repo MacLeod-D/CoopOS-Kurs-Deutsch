@@ -54,3 +54,9 @@ auf den sich auch die Demo-Bilder beziehen.
 Es wird dringend empfohlen, einen Logic-Analyzer oder ein Oszilloskop zu benutzen. Einfachste Ausführungen   
 reichen! Wer sich traut: in China gibt es sehr billige Clones ;)
 
+***Installation:***   
+
+Die PDF kann direkt gelesen werden.   
+Die Demos sollten direkt in den Arduino-Sketches Ordner entpßackt werden.   
+
+
