@@ -1,5 +1,6 @@
 # CoopOS-Kurs-Deutsch
-*Schnelles und mächtiges kooperatives Multitasking - Kurs und Deutsch mit allen Source*
+
+***Schnelles und mächtiges kooperatives Multitasking - Kurs auf Deutsch mit allen Source***
 
 Auf über 65 Seiten PDF und 8 Demo-Sourcen wird CoopOS, ein Hilfsmittel für kooperatives Multitasking, sehr detailiert und auch für den Anfänger nachvollziehbar vorgestellt.   
 
