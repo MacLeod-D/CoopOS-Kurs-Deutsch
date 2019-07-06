@@ -57,6 +57,6 @@ reichen! Wer sich traut: in China gibt es sehr billige Clones ;)
 ***Installation:***   
 
 Die PDF kann direkt gelesen werden.   
-Die Demos sollten direkt in den Arduino-Sketches Ordner entpßackt werden.   
+Die Demos sollten direkt in den Arduino-Sketches Ordner entpackt werden.   
 
 
