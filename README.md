@@ -1,5 +1,5 @@
 
-An english Version will be soon available.  Eine englische Version ist in Vorbereitung.
+***An english Version will be soon available.***  Eine englische Version ist in Vorbereitung.
 
 
 ***Schnelles und mächtiges kooperatives Multitasking - Kurs auf Deutsch mit allen Source***
@@ -51,4 +51,6 @@ PDF lesen - bei Aufforderung den entsprechend Kursteil in der Arduino IDE ausfü
 Obwohl mit jedem Prozessor ausführbar erhält man besonders beeindruckende Ergebnisse mit einem ESP8266,   
 auf den sich auch die Demo-Bilder beziehen.   
 
+Es wird dringend empfohlen, einen Logic-Analyzer oder ein Oszilloskop zu benutzen. Einfachste Ausführungen   
+reichen! Wer sich traut: in China gibt es sehr billige Clones ;)
 
