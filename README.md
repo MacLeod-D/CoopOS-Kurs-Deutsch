@@ -13,13 +13,14 @@ Kooperatives Multitasking benötigt keinen eigenen Stack für jeden Task. Daher 
 Da die Stackbereiche und damit die Prozessor-Register nicht umgeschaltet werden ist CoopOS extrem schnell.   
 
 Troztzdem enthält es viele Optionen, die sonst nur bei RTOSs zu finden sind:   
-taskSwitch
-taskDelay
-taskStop
-taskResume
-taskWaitSignal
-taskSetSignal (auch von Interrupt-Routinen)
-taskWaitResource
-taskFreeResource
+
+taskSwitch   
+taskDelay   
+taskStop   
+taskResume   
+taskWaitSignal   
+taskSetSignal (auch von Interrupt-Routinen)   
+taskWaitResource   
+taskFreeResource   
 
 
