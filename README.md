@@ -1,3 +1,7 @@
+
+An english Version will be soon available.  Eine englische Version ist in Vorbereitung.
+
+
 ***Schnelles und mächtiges kooperatives Multitasking - Kurs auf Deutsch mit allen Source***
                       ***CoopOS***
                       
@@ -14,6 +18,10 @@ Da die Stackbereiche und damit die Prozessor-Register nicht umgeschaltet werden 
 
 Troztzdem enthält es viele Optionen, die sonst nur bei RTOSs zu finden sind:   
 
+while(1) {
+    ...
+}
+
 taskSwitch   
 taskDelay   
 taskStop   
@@ -22,5 +30,25 @@ taskWaitSignal
 taskSetSignal (auch von Interrupt-Routinen)   
 taskWaitResource   
 taskFreeResource   
+
+Es hat mich einfach geärgert, dass es modern zu sein scheint, RTOS für die heilige Kuh zu erklären, deren Ergebnisse mit   
+kooperativem Multitasking nicht zu erreichen sind - denn das ist Unsinn!   
+
+Gewiss wollte ich auf ein RTOS in embedded systems nicht verzichten  da, wo es vorhanden ist.   
+Aber CoopOS ist selbst dann verfügbar, wenn der Platz sehr knapp ist - und bietet leicht die Möglichkeit von 10 Tasks,   
+wo ein RTOS nicht existiert.   
+
+Ein weiterer Vorteil ist die vollständige Unabhängigkeit vom Prozessortyp.   
+Die Programme sind so sehr leicht zu übertragen.   
+
+Und es kann ein RTOS sehr wohl gut ergänzen - insbesondere da, wo mehrere Prozessorkerne vorhanden sind.   
+
+Die Kursteile 0-6 laufen auf jedem Prozessor - ohne Änderung - , für die die Arduino IDE verfügbar ist !   
+
+Die beste Methode ist:   
+PDF lesen - bei Aufforderung den entsprechend Kursteil in der Arduino IDE ausführen.   
+
+Obwohl mit jedem Prozessor ausführbar erhält man besonders beeindruckende Ergebnisse mit einem ESP8266,   
+auf den sich auch die Demo-Bilder beziehen.   
 
 
