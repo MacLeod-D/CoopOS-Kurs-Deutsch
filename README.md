@@ -1,5 +1,5 @@
 
-***An English version is in preparation. ***  Eine englische Version ist in Vorbereitung.
+***An English version is in preparation.***     Eine englische Version ist in Vorbereitung.
 
 
 ***Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
