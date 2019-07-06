@@ -3,7 +3,7 @@
 
 
 ***Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
-              Kurs auf Deutsch mit allen Source***   
+              Kurs auf Deutsch mit allen Sourcen***   
               
                       ***CoopOS***
                       
