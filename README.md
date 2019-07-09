@@ -1,9 +1,9 @@
 -----------------------------------------------------
-This is the fast CoopOS-version without stackchange - but in german.
+This is the fast CoopOS-version <b>without</b> stackchange - but in german.
 
 ***An English version is in preparation.***  <br>
 
-                  Until theN: An alternative version **with** stackchange:
+                  Until then: An alternative version <b>with</b> stackchange:
                   
                   Slower (only 25000 taskSwitches/s) but even easier to use than this one:
                   
