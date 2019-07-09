@@ -1,20 +1,23 @@
 -----------------------------------------------------
+This is the fast CoopOS-version without stackchange - but in german.
+
 ***An English version is in preparation.***  <br>
 
-                  And here is an english version of CoopOS with stackchange.<br>
-                  Slower, but even easier to use:
+                  Until theN: An alternative version **with** stackchange:
+                  
+                  Slower (only 25000 taskSwitches/s) but even easier to use than this one:
                   
                   This makes tasks out of your functions:
 
                   void setup() {
                     Serial.begin(500000);
-                    StackInit();
+                    StackInit();                                 // <<<
                     TaskInit("T1", Task1, 90, 100,   0, READY);
                     TaskInit("T2", Task2, 90, 100,   0, READY);
-                    StartMultiTasking();
+                    StartMultiTasking();                         // <<<
                   }
 
->>>>>>>           https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
+                  https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
 
 -----------------------------------------------------
 
