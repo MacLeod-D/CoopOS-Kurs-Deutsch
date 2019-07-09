@@ -1,9 +1,9 @@
 -----------------------------------------------------
-This is the fast CoopOS-version <b>without</b> stackchange - but in german.
+This is the **fast** and **universal** CoopOS-version **without** stackchange  for ALL CPUs- but in german.
 
 ***An English version is in preparation.***  <br>
 
-                  Until then: An alternative version with stackchange:
+                  Until then: An alternative version with stackchange: (AVR CPUs only)
                   
                   Slower (only 25000 taskSwitches/s) but even easier to use than this one:
                   
@@ -26,8 +26,10 @@ This is the fast CoopOS-version <b>without</b> stackchange - but in german.
 Eine englische Version ist in Vorbereitung.
 
 
-***Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
-              Kurs auf Deutsch mit allen Sourcen***   
+**Dies ist die schnelle und universelle CoopOS-Version füe alle Prozessoren !**
+
+**Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
+              Kurs auf Deutsch mit allen Sourcen**   
               
                       **CoopOS**
                       
