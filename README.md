@@ -85,6 +85,11 @@ reichen! Wer sich traut: in China gibt es sehr billige Clones ;)
 Die PDF kann direkt gelesen werden.   
 Die Demos sollten direkt in den Arduino-Sketches Ordner entpackt werden.   
 
-Achtung: 
+---------------------------
 
+    Achtung: 
+    Hier ist die Version MIT Stack-Change (jeder Task hat eigenen stack).
+    Dadurch langsamer. aber noch einfacher benutzbar.
+
+------------------------
 https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
