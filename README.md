@@ -1,11 +1,32 @@
+-----------------------------------------------------
+***An English version is in preparation.***  <br>
 
-***An English version is in preparation.***     Eine englische Version ist in Vorbereitung.
+                  And here is an english version of CoopOS with stackchange.<br>
+                  Slower, but even easier to use:
+                  
+                  This makes tasks out of your functions:
+
+                  void setup() {
+                    Serial.begin(500000);
+                    StackInit();
+                    TaskInit("T1", Task1, 90, 100,   0, READY);
+                    TaskInit("T2", Task2, 90, 100,   0, READY);
+                    StartMultiTasking();
+                  }
+
+>>>>>>>           https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
+
+-----------------------------------------------------
+
+
+
+Eine englische Version ist in Vorbereitung.
 
 
 ***Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
               Kurs auf Deutsch mit allen Sourcen***   
               
-                      ***CoopOS***
+                      **CoopOS**
                       
 Ein umfangreicher Kursus, der ganz simpel startet
                      
@@ -61,4 +82,6 @@ reichen! Wer sich traut: in China gibt es sehr billige Clones ;)
 Die PDF kann direkt gelesen werden.   
 Die Demos sollten direkt in den Arduino-Sketches Ordner entpackt werden.   
 
+Achtung: 
 
+https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
