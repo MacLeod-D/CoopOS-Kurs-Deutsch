@@ -1,5 +1,5 @@
 -----------------------------------------------------
-This is the **fast** and **universal** CoopOS-version **without** stackchange  for ALL CPUs- but in german.
+This is the **fast** and **universal** CoopOS-version **without** stackchange  for ALL CPUs- but in **German**.
 
 ***An English version is in preparation.***  <br>
 
