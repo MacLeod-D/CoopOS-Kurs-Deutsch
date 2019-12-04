@@ -20,7 +20,7 @@ https://github.com/MacLeod-D/ESP8266-Multitasking-CoopOS
 **Schnelles und mächtiges kooperatives Multitasking für Arduino IDE   
               Kurs auf Deutsch mit allen Sourcen**   
               
-                      **CoopOS**
+# CoopOS
                       
 Ein umfangreicher Kursus, der ganz simpel startet
                      
