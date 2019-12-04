@@ -1,29 +1,18 @@
 -----------------------------------------------------
 This is the **fast** and **universal** CoopOS-version **without** stackchange  for ALL CPUs- but in **German**.
 
-***An English version is in preparation.***  <br>
+***An English version is available:      https://github.com/MacLeod-D/CoopOS-Lessons-English***  <br>
 
-                  Until then: An alternative version with stackchange: (AVR CPUs only)
-                  
-                  Slower (only 25000 taskSwitches/s) but even easier to use than this one:
-                  
-                  This makes tasks out of your functions:
+ Links:
 
-                  void setup() {
-                    Serial.begin(500000);
-                    StackInit();                                 // <<<
-                    TaskInit("T1", Task1, 90, 100,   0, READY);
-                    TaskInit("T2", Task2, 90, 100,   0, READY);
-                    StartMultiTasking();                         // <<<
-                  }
+With Stackframes (Arduino):
+https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
 
-                  https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
-
------------------------------------------------------
+With Stackframes and WebServer (ESP8266):
+https://github.com/MacLeod-D/ESP8266-Multitasking-CoopOS 
 
 
 
-Eine englische Version ist in Vorbereitung.
 
 
 **Dies ist die schnelle und universelle CoopOS-Version füe alle Prozessoren !**
@@ -95,3 +84,8 @@ Die Demos sollten direkt in den Arduino-Sketches Ordner entpackt werden.
 
 ------------------------
 https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
+
+
+
+
+Ausführliche weitere Informationn:  **http://HelmutWeber.de**
